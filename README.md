@@ -1,6 +1,6 @@
 # 🐍 Python-Net Dev VPN 2026-2027: High-Value Proxies for Developers & Coders (2026-2027 开发者高性价比便宜梯子推荐)
 
-[![Update: 2026-2027](https://img.shields.io/badge/Update-2026--09--14%20Rolling-brightgreen)](https://github.com/python-net-dev/vpn)
+[![Update: 2026-2027](https://img.shields.io/badge/Update-2026--09--21%20Rolling-brightgreen)](https://github.com/python-net-dev/vpn)
 [![Free Trial](https://img.shields.io/badge/Free%20Trial-%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8-brightgreen)](https://cloud.yuncataff.top/aff/github-com/python-net-dev/vpn/#/register?code=IJOjygWb)
 [![Budget Choice](https://img.shields.io/badge/Price-%E6%9C%88%E4%BB%98%E4%B8%AA%E4%BD%8D%E6%95%B0-blue)](https://cloud.yuncataff.top/aff/github-com/python-net-dev/vpn/#/register?code=IJOjygWb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
